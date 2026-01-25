@@ -1,5 +1,7 @@
-[
-    "samplelevel1",
-    "samplelevel2",
-    "sample_level_3"
-]
+{
+  "levels": [
+    { "file": "samplelevel1" },
+    { "file": "samplelevel2" },
+    { "file": "sample_level_3" }
+  ]
+}
